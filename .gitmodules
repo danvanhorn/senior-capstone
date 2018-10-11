@@ -1,0 +1,9 @@
+[submodule "documents"]
+	path = documents
+	url = git@github.com:danvanhorn/documents.git
+[submodule "brewhops-api"]
+	path = brewhops-api
+	url = git@github.com:danvanhorn/brewhops-api.git
+[submodule "brewhops-app"]
+	path = brewhops-app
+	url = git@github.com:danvanhorn/brewhops-app.git
