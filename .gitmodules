@@ -4,3 +4,6 @@
 [submodule "brewhops-app"]
 	path = brewhops-app
 	url = git@github.com:danvanhorn/brewhops-app.git
+[submodule "brewhops-documents"]
+	path = brewhops-documents
+	url = git@github.com:danvanhorn/brewhops-documents.git
