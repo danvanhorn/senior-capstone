@@ -13,6 +13,6 @@ git submodule update --recursive --remote
 
 ### Running the application
 
-1. Run [brewhops-api](brewhops-api) in one terminal.
-1. Run [brewhops-app](brewhops-app) in another terminal.
-1. Open a brower at the url speicifed in the brewhops-app terminal output.  Most likely [localhost:8080].
+1. Run **brewhops-api** in one terminal.
+1. Run **brewhops-app** in another terminal.
+1. Open a brower at the url speicifed in the brewhops-app terminal output.  Most likely `localhost:8080`.
